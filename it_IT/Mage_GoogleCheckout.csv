@@ -40,7 +40,7 @@
 "Fulfillment: %s -> %s","Adempimento: %s -> %s"
 "Google API","Google API"
 "Google Authorization:","Autorizzazione Google:"
-"ID","ID Google acquirente: %s"
+"ID","ID"
 "Google Charge:","Addebito Google:"
 "Google Chargeback:","Google Chargeback:"
 "Google Checkout","Pagamento Google"

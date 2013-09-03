@@ -41,7 +41,7 @@ Stock Options,Opzioni scorte
 Stock Status,Stato scorte
 The maximum quantity allowed for purchase is %s.,La quantità massima permessa per l\'acquisto è %s.
 The minimum quantity allowed for purchase is %s.,La quantità minima permessa per l\'acquisto è %s.
-"The requested quantity for ""%s"" is not available.","La quantità richiesta di ""%s"" non è disponibile."
+"The requested quantity for ""%s"" is not available.","La quantità richiesta di ""%s"" non è disponibile. Contattaci per maggiori informazioni"
 The requested quantity is not available.,La quantità richiesta non è disponibile.
 The stock item for Product in option is not valid.,L\'articolo in scorta per l\'opzione prodotto non è valido.
 The stock item for Product is not valid.,L\'articolo in scorta per il prodotto non è valido.

@@ -428,8 +428,8 @@ Order Shipments,Spedizioni ordine
 Order State,Stato dell'ordine
 Order Status,Status ordine
 Order Status Information,Informazioni status ordine
-Order Statuses,Status ordine
-Order Subtotal,Subtotale ordine
+Order Statuses,Stato ordine
+Order Subtotal,Importo ordine
 Order Taxes Report Grouped by Tax Rates,Order Taxes Report Grouped by Tax Rates
 Order Total,Totale ordine
 Order Totals,Totali ordini
@@ -587,7 +587,7 @@ Return to Stock,Torna all\'archivio
 Returned,Restituito
 Returns,Restituzioni
 Revenue,Entrate
-Row Subtotal,Riga subtotale
+Row Subtotal,Importo Riga
 Row Total,Riga totale
 SHIP TO:,SPEDISCI A:
 SKU,SKU
@@ -691,9 +691,9 @@ Submit Order,Invia ordine
 Submit Shipment,Invia spedizione
 Subscribe to Newsletter,Iscriviti alla newsletter
 Subscribe to Order Status,Iscriviti allo stato dell\'ordine
-Subtotal,Subtotale
-Subtotal after discount.,Subtotale dopo lo sconto
-Subtotal:,Subtotale:
+Subtotal,Importo
+Subtotal after discount.,Importo scontato
+Subtotal:,Importo:
 Suspected Fraud,Frode sospetta
 Suspend,Sospendere
 Suspended,Sospeso
@@ -740,7 +740,7 @@ There are no shipping labels related to selected %s.,Non ci sono etichette di sp
 There is no need to approve this payment.,Non è necessaria l\'approvazione per questo pagamento
 There is no need to deny this payment.,Non è necessario annullare questo pagamento
 There is no update for the payment.,Non ci sono aggiornamenti per il pagamento
-This message will be shown in shopping cart when subtotal after discount less than minimum amount.,Questo messaggio verrà visualizzato nel carrello quando il subtotale dopo lo sconto è inferiore all\'importo minimo.
+This message will be shown in shopping cart when subtotal after discount less than minimum amount.,Questo messaggio verrà visualizzato nel carrello quando l'importo dopo lo sconto è inferiore all\'importo minimo.
 This operation requires an existing transaction object.,Questa operazione richiese una transazione oggetto esistente
 "This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.","Quest\'ordine contenente (%s) oggetti e quindi non può essere modificato tramite l\'interfaccia della gestione al momento, se vuoi continuare a modificare gli (%s) oggetti verranno rimossi, l\'ordine verrà cancellato e verrà inserito un nuovo ordine."
 This order no longer exists.,Quest\'ordine non è più esistente

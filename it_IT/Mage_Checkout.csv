@@ -42,7 +42,7 @@ Cannot update shopping cart.,Impossibile aggiornare il carrello.
 Cannot update the item.,Impossibile aggiornare l\'articolo.
 Card Verification Number Visual Reference,Numero di verifica carta riferimento visivo
 Cart Product API,API carrello prodotto
-Cart Subtotal:,Subtotale carrello:
+Cart Subtotal:,Importo:
 Change,Modifica
 Change Billing Address,Cambia indirizzo di fatturazione
 Checkbox Text,Checkbox Text
@@ -192,7 +192,7 @@ Please log in below:,Accedi:
 Please select shipping address for applicable items,Seleziona un indirizzo di spedizione applicabile agli articoli
 Please select shipping methods for all addresses,Seleziona i metodi di pagamento per tutti gli indirizzi
 Price,Prezzo
-Proceed to Checkout,Procedi al Checkout
+Proceed to Checkout,Vai alla cassa
 Product,Prodotto
 Product Name,Nome prodotto
 Products,Prodotti
@@ -262,7 +262,7 @@ Store View,Vista negozio
 Street Address,Indirizzo
 Street Address %s,Indirizzo %s
 Submitting order information...,Presenta informazioni ordine...
-Subtotal,Subtotale
+Subtotal,Importo
 Telephone,Telefono
 Terms and Conditions,Termini e condizioni
 Terms and Conditions Information,Informazioni termini e condizioni
@@ -285,6 +285,7 @@ Unit Price,Prezzo unitario
 Update Cart,Aggiorna il carrello
 Update Qty &amp; Addresses,Aggiorna Qtà &amp; indirizzi
 Update Shopping Cart,Aggiorna carrello
+Clear Shopping Cart,Svuota carrello
 Update Total,Aggiorna totale
 Update product quantities in shopping cart,Aggiorna quantità prodotti nel carrello
 Update product(s) quantities in shopping cart,Aggiorna quantità prodotto/i nel carrello
